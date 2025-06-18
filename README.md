@@ -20,11 +20,14 @@ In this simple game, the player must dodge and jump to *squash* enemies for as l
 2. Import the proyect into Godot by selecting the `project.godot` file.
 3. Build and play, or export the project.
 
-**Note:** To export the project, you will need to have the **_export templates .NET_** installed. You can find them in the **All downloads** section of the official [Godot Engine](https://godotengine.org/) website.
+> **Note:** To export the project, you will need to have the **_export templates .NET_** installed. You can find them in the **All downloads** section of the official [Godot Engine](https://godotengine.org/) website.
 
 ## :scroll: How to play
-- **WASD**/**Arrow Keys**: Move the character.
-- **SPACE**: Jump.
+- <kbd>Up Arrow</kbd>, <kbd>W</kbd>: Move up.
+- <kbd>Down Arrow</kbd>, <kbd>S</kbd>: Move down.
+- <kbd>Left Arrow</kbd>, <kbd>A</kbd>: Move left.
+- <kbd>Right Arrow</kbd>, <kbd>D</kbd>: Move right.
+- <kbd>Space</kbd>: Jump.
 
 ## :bust_in_silhouette: Credits
 The assets are provided by **Godot Engine** as part of their tutorials.
